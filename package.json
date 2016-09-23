@@ -32,8 +32,6 @@
     "chokidar": "^1.6.0",
     "commander": "^2.9.0",
     "dot-prop": "^3.0.0",
-    "isarray": "^1.0.0",
-    "isobject": "^2.0.0",
     "mkdirp": "^0.5.1",
     "recursive-readdir": "^2.0.0",
     "underscore": "^1.8.3"
